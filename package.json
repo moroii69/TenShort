@@ -48,7 +48,6 @@
     "cmdk": "^1.0.0",
     "date-fns": "^3.6.0",
     "embla-carousel-react": "^8.3.0",
-    "eslint": "8.49.0",
     "eslint-config-next": "13.5.1",
     "firebase": "^10.9.0",
     "input-otp": "^1.2.4",
@@ -69,5 +68,10 @@
     "typescript": "5.2.2",
     "vaul": "^0.9.9",
     "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.37.4",
+    "globals": "^15.15.0",
+    "typescript-eslint": "^8.24.0"
   }
 }
