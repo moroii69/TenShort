@@ -10,6 +10,7 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'TenShort URL Shortener',
   description: 'A minimal serverless URL shortener',
+  icons: "/favicon.ico",
 };
 
 export default function RootLayout({
